@@ -3,25 +3,25 @@
 - id: Sousa
   i18n: nav.sousa
   name: Sousa
-  tpl: sousa.html
+  tpl: about.html
   css:
 
 - id: profissional
   i18n: nav.profissional
   name: Profissional
-  tpl: profissional.html
+  tpl: career.html
   css: timeline
 
 - id: habilidades
   i18n: nav.habilidades
   name: Habilidades
-  tpl: habilidades.html
+  tpl: skills.html
   css: team
 
 - id: projetos
   i18n: nav.projetos
   name: Projetos
-  tpl: projetos.html
+  tpl: projects.html
   css: project
 
 - id: blog
