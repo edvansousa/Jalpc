@@ -1,24 +1,24 @@
 # index page sections
 # custom following lines to edit your index page
-- id: about-me
+- id: pessoal
   i18n: nav.about_me
   name: About
   tpl: about.html
   css:
 
-- id: career
+- id: profissional
   i18n: nav.career
   name: Career
   tpl: career.html
   css: timeline
 
-- id: skills
+- id: habilidades
   i18n: nav.skills
   name: Skills
   tpl: skills.html
   css: team
 
-- id: projects
+- id: projetos
   i18n: nav.projects
   name: Projects
   tpl: projects.html
