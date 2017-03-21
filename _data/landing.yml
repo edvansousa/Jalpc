@@ -1,27 +1,27 @@
 # index page sections
 # custom following lines to edit your index page
-- id: pessoal_bio
-  i18n: nav.pessoal_bio
-  name: Pessoal_bio
-  tpl: pessoal_bio.html
+- id: Sousa
+  i18n: nav.sousa
+  name: Sousa
+  tpl: sousa.html
   css:
 
-- id: profissional_bio
-  i18n: nav.profissional_bio
-  name: Profissional_bio
-  tpl: career.html
+- id: profissional
+  i18n: nav.profissional
+  name: Profissional
+  tpl: profissional.html
   css: timeline
 
 - id: habilidades
   i18n: nav.habilidades
   name: Habilidades
-  tpl: skills.html
+  tpl: habilidades.html
   css: team
 
 - id: projetos
   i18n: nav.projetos
   name: Projetos
-  tpl: projects.html
+  tpl: projetos.html
   css: project
 
 - id: blog
