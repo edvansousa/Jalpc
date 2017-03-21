@@ -3,7 +3,7 @@
 - id: pessoal_bio
   i18n: nav.pessoal_bio
   name: Pessoal_bio
-  tpl: about.html
+  tpl: pessoal_bio.html
   css:
 
 - id: profissional_bio
